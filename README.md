@@ -14,6 +14,8 @@ This project leverages Artificial Intelligence (AI), specifically Convolutional 
 ## **Dataset**  
 The project utilizes dataset with a wide variety of keywords, collected from two main directories available online on kaggle: training set ('image/train') and test set ('image/test') This dataset included a wide range of human emotions issue, such as ‘angry’, ‘disgusted’, ‘scared’, ‘excited’, ‘neutral’, ‘sad’, and ‘surprised’ served as the original items for our emotion recognition experiments.
 
+- **Link**: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer/data
+
 ---
 
 ## **Technologies Used**  
